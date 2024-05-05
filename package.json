@@ -1,0 +1,17 @@
+{
+  "name": "gimini-khan-countdown-timer",
+  "version": "1.0.0",
+  "description": "A simple countdown Timer in Typescript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Qurratulain",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  }
+}
